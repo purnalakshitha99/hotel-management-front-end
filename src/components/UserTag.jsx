@@ -1,6 +1,8 @@
 function UserTag(props){
 
-    console.log(props)
+    // console.log(props)
+    const name = props.imageLink;
+    console.log(name)
     return(
         <div>
         
