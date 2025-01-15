@@ -1,4 +1,4 @@
-import UserTag from '../UserTag.jsx'
+import UserTag from '../UserData/UserTag.jsx'
 import "./header.css"
 
 function Header(){
