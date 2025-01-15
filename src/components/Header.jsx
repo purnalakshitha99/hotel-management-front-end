@@ -1,4 +1,5 @@
 import UserTag from '../components/UserTag.jsx'
+import "./header.css"
 
 function Header(){
      return(
