@@ -4,3 +4,9 @@
     display: flex;
     
 }
+
+.div-user-data img{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px ;
+}

@@ -10,9 +10,9 @@ function UserTag(props){
         <div className="div-user-data">
         
          <a href="#" >
-         <img src={props.imageLink} style={{width:"50px"}}  />
+         <img src={props.imageLink} />
             </a> 
-            <h1>Purna lakshitha</h1>
+            <span>Purna lakshitha</span>
         </div>
     )
 }
