@@ -1,5 +1,6 @@
 .div-user-data{
-    position:relative;
+    position:absolute;
     background-color: blue;
-    padding-left: 10px;
+    display: flex;
+    
 }
