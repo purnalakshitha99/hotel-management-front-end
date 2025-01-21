@@ -1,7 +1,8 @@
 .div-user-data{
-    position:relative;
+    position:absolute;
     background-color: blue;
     display: flex;
+    right: 0;
     
 }
 
