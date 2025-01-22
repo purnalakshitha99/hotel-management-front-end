@@ -1,10 +1,12 @@
 .div-user-data{
-    position:relative;
+    position:absolute;
     background-color: blue;
     display: flex;
     right: 0px;
-    margin-top: 10px;
-    padding: 100px;
+    margin-top: 5px;
+    padding: 10px;
+    height: 100%;
+    align-items: center;
 }
 
 .div-user-data img{
