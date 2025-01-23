@@ -1,12 +1,17 @@
 .div-user-data{
     position:absolute;
-    background-color: blue;
+    /* background-color:blue; */
     display: flex;
-    right: 0px;
     margin-top: 5px;
-    padding: 10px;
-    height: 100%;
-    align-items: center;
+    right: 0;
+    padding-left: 50px;
+    height: 100px;
+    /* align-items: center; */
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-left: 20px;
+    /* justify-content: center; */
+    cursor: pointer;
 }
 
 .div-user-data img{
@@ -17,4 +22,9 @@
 
 .div-user-data span{
     font-size: 40px ;
+    margin-left: 10px;
+}
+
+.testing{
+    border: 5px solid black;
 }

@@ -7,13 +7,15 @@ function UserTag(props){
     const name = props.imageLink;
     console.log(name)
     return(
-        <div className="div-user-data">
+        <div className="div-user-data testing">
         
          <a href="#" >
          <img src={props.imageLink} />
             </a> 
             <span>Purna lakshitha</span>
         </div>
+
+        
     )
 }
 
