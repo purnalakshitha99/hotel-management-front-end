@@ -1,4 +1,4 @@
-import './userData.css'
+
 
 
 function UserTag(props){
@@ -8,10 +8,10 @@ function UserTag(props){
     const name = props.imageLink;
     console.log(name)
     return(
-        <div className="div-user-data testing">
+        <div className="absolute right-0 flex bg-red-500">
         
          <a href="#" >
-         <img src={props.imageLink} />
+         <img className="w-[50px] h-[50px]" src={props.imageLink} />
             </a> 
             <span>Purna lakshitha</span>
         </div>
