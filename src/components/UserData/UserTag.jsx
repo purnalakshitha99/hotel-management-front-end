@@ -1,4 +1,4 @@
-import './userData.css'
+
 
 function UserTag(props){
 
@@ -7,7 +7,7 @@ function UserTag(props){
     const name = props.imageLink;
     console.log(name)
     return(
-        <div className="div-user-data testing">
+        <div className="">
         
          <a href="#" >
          <img src={props.imageLink} />
