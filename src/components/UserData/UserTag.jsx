@@ -11,7 +11,7 @@ function UserTag(props){
         <div className="absolute right-0 flex bg-red-500">
         
          <a href="#" >
-         <img className="w-[50px] h-[50px]" src={props.imageLink} />
+         <img className="w-[50px] h-[50px] rounded-full" src={props.imageLink} />
             </a> 
             <span>Purna lakshitha</span>
         </div>
