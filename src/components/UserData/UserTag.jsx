@@ -8,7 +8,7 @@ function UserTag(props){
     const name = props.imageLink;
     console.log(name)
     return(
-        <div className="absolute right-0 flex bg-red-500">
+        <div className="absolute mr-1.5 flex bg-red-500">
         
          <a href="#" >
          <img className="w-[50px] h-[50px] rounded-full" src={props.imageLink} />
