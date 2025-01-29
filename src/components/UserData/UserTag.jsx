@@ -8,12 +8,12 @@ function UserTag(props){
     const name = props.imageLink;
     console.log(name)
     return(
-        <div className="absolute mr-1.5 flex bg-red-500">
+        <div className="absolute right-0 mr-5 flex bg-red-500">
         
          <a href="#" >
          <img className="w-[50px] h-[50px] rounded-full" src={props.imageLink} />
             </a> 
-            <span className="mt-2.5">Purna lakshitha</span>
+            <span className="mt-2.5 ml-2">Purna lakshitha</span>
         </div>
 
         
