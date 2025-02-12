@@ -5,7 +5,7 @@ import BodyContent  from "./components/BodyContent/BodyContent.jsx"
 
 function  App(props) {
   return (
-   <><Header /><BodyContent /></>
+   <><Header /></>
 
 
 
