@@ -5,7 +5,9 @@ import BodyContent  from "./components/BodyContent/BodyContent.jsx"
 
 function  App(props) {
   return (
-   <><Header /><BodyContent /></>
+   <><Header />
+   <div className="w-full h-screen bg-blue-900"></div>
+   </>
 
 
 
