@@ -9,15 +9,8 @@ function  App(props) {
    <div className="w-full border-white h-screen bg-blue-900">
    <span>hello</span>
    </div>
-
-   
-  
-
    </>
-
-
-
-      
+   
   )
 }
 
