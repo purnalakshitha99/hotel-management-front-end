@@ -6,12 +6,11 @@ import BodyContent  from "./components/BodyContent/BodyContent.jsx"
 function  App(props) {
   return (
    <><Header />
-   <div className="w-full h-screen bg-blue-900"></div>
+   <div className="w-full border-white h-screen bg-blue-900">
+   <span>hello</span>
+   </div>
    </>
-
-
-
-      
+   
   )
 }
 

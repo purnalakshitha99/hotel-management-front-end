@@ -24,3 +24,4 @@ package-lock
 *.njsproj
 *.sln
 *.sw?
+config.bat
